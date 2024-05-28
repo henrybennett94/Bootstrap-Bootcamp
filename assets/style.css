@@ -1,0 +1,21 @@
+body {
+    background-color: #1a1a1a;
+}
+
+.callout { 
+    background-color: #ae4545ca;
+    height: 40vh;
+}
+
+.text-muted {
+    color:rgb(189, 220, 247);
+    font-weight: bolder;
+}
+
+.media-body{
+    color: rgb(189, 227, 227);
+}
+
+.text-uppercase{
+    color: #e49191
+}
